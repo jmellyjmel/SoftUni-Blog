@@ -1,1 +1,2 @@
 # SoftUni-Blog
+NEW LINE
